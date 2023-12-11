@@ -14,12 +14,10 @@ Earlier research has demonstrated that weather and Enhanced Vegetation Index (EV
 
 ### Objectives:
 
-a)	Technical Objectives:
 From a technical perspective, the project's main objective is to provide the USDA with a better awareness of the conditions in all fields so that decisions can be made without installing expensive monitors.
 
 •	Predictive Modeling of EVI and LSWI: The first objective of our project is to use one pasture data (Weather and soil variables of P13) to predict satellite readings such as Enhanced Vegetation Index (EVI) as well as Land Surface Water Index (LSWI) and then validate the same for two different pastures. The data provided here is a daily value, so we must interpolate the 8-day satellite readings to create daily estimates using linear interpolation.
+
 •	Predictive Modeling of ER: The project's second objective is to use weather, and soil variables, and combine them with one of the 3-sensors measurements of Gross Primary Production (GPP), Net Ecosystem Exchange (NEE), Evapotranspiration (ET) at a time to model for environmental respiration (ER).
-b)	Individual Learning Objectives:
-•	My learning objectives are to work on a data science project, from analyzing the data to creating a working model and evaluating the results of the model.
-•	This project will be the entire data science process, going from data Ingestion, data analysis, creating a model, and analyzing the results. This project will also develop Python skills to create a proper model and explain the results in a paper.
+
 
